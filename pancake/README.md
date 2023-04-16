@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Pancake-Swap-React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This is a PancakeSwap website clone, built using :
 
-## Available Scripts
+- React
+- CSS 
+- SASS
+- JavaScript
+## Technologies used :
+- [Trello](https://trello.com/b/f7Pf0naf/pancake-project)
+- [GitHub](https://github.com/alessiobo/PancakeSwap-project)
+- [Figma](https://www.figma.com/file/NVTcDfMQHvJZA3vdw8eg0l/PancakeSwap-Design-system?node-id=0%3A3&t=56sp4b3NNuPMIAgr-0)
+## Team : 
+- [Alessio Boscaro](https://github.com/alessiobo) (Team Leader)
+- [Marco Bonnì](https://github.com/marcobonni)
+- [Giovanni Composto](https://github.com/giovyc93)
+- [Roberta Federico](https://github.com/Roberta93-web)
+- [Edoardo Gentile](https://github.com/EdoGent)
+- [Cipriano Mereu](https://github.com/GitAbbonu)
 
-In the project directory, you can run:
+# Project Collaboration Guidelines
+### This document outlines the guidelines for collaborating on the PancakeSwap website clone project. It is important that everyone involved in the project follows these guidelines in order to ensure a smooth and efficient collaboration process.
 
-### `npm start`
+# Communication (poll needed)
+Effective communication is key to the success of the project. The following communication channels will be used:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Discord: for day-to-day communication, updates, and general discussion.
+- GitHub: for project management, code reviews, and technical discussions.
+- Trello: for ticket management and agile workflow with kanban system.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Coding Standards
+## The following coding standards must be followed:
 
-### `npm test`
+1. Naming Conventions: Variable and function names should be descriptive and meaningful. Avoid using vague names like x or y. Use kebab-case for naming everything.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Formatting and Indentation: Consistent formatting and indentation makes code more readable and easier to understand. Use a consistent number of spaces or tabs for indentation, and keep code aligned to make it more readable.
 
-### `npm run build`
+3. Comments: Comments should be used to explain complex code logic or to provide additional context. Use comments to explain why you are doing something, not just what you are doing. However, comments should not be used to explain obvious or self-explanatory code.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. Function Length: Functions should be short and focused. A good rule of thumb is to keep functions under 25 lines of code. If a function is too long, it should be broken down into smaller, more focused functions.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5. Consistent Style: Code should be written in a consistent style throughout the project. This includes naming conventions, formatting, and commenting. Using a consistent style makes the code easier to read and understand, especially when working with a team.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+6. Version Control: Use a version control system like Git to manage changes to the code. Commit often and write informative commit messages. Use feature branches to keep changes separate and to facilitate code reviews.
 
-### `npm run eject`
+Following coding standards like these can help ensure that the code is maintainable, easy to read, and free of errors. By adhering to these standards, you and your team can work more efficiently and effectively on the project.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Conclusion
+### By following these guidelines, we can ensure a successful and productive collaboration on the PancakeSwap website clone project. If you have any questions or concerns, don't hesitate to reach out to the project manager or other team members.
